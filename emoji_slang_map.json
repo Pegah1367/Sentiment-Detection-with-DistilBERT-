@@ -1,0 +1,52 @@
+{
+  "emoji_by_label": {
+    "joy": [
+      "😄",
+      "😆",
+      "😁",
+      "😊",
+      "🎉",
+      "✨"
+    ],
+    "sadness": [
+      "😢",
+      "😞",
+      "💔",
+      "🥲"
+    ],
+    "anger": [
+      "😠",
+      "😡",
+      "🤬"
+    ],
+    "fear": [
+      "😨",
+      "😱",
+      "😰"
+    ],
+    "love": [
+      "❤️",
+      "😍",
+      "🥰",
+      "💖"
+    ],
+    "surprise": [
+      "😮",
+      "😲",
+      "🤯"
+    ]
+  },
+  "slang": {
+    "idk": "i don't know",
+    "omg": "oh my god",
+    "lol": "laugh out loud",
+    "luv": "love",
+    "im": "i am",
+    "cant": "can't",
+    "wanna": "want to",
+    "gonna": "going to",
+    "kinda": "kind of",
+    "tbh": "to be honest",
+    "btw": "by the way"
+  }
+}
